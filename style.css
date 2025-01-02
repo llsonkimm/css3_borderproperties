@@ -1,0 +1,7 @@
+.box1{
+    width: 300px;
+    height: 150px;
+    background: #ff3303;
+    border: 2px solid #3330ff;
+    border-radius: 20px;
+}
